@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="business_card1.xsl"?>
+
+<card xmlns="http://businesscard.org">
+  <name>Tim Berners-Lee</name>
+  <title>Sir</title>
+  <email>timbl@w3.org</email>
+  <phone>+1 (617) 253 5702</phone>
+  <logo uri="w3_logo.jpg" />
+</card>

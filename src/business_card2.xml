@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="business_card2.xsl"?>
+
+<cardCollection name="My Business Card Collection" xmlns="http://businesscard.org">
+  <card>
+    <name>Tim Berners-Lee</name>
+    <title>Sir</title>
+    <email>timbl@w3.org</email>
+    <phone>+1 (617) 253 5702</phone>
+    <logo uri="w3_logo.jpg" />
+  </card>
+
+  <card>
+    <name>Anja Feldmann</name>
+    <title>Prof. Ph.D.</title>
+    <email>anja@net</email>
+    <phone>+49 (30) 8353 58510</phone>
+    <logo uri="feldmann.jpg" />
+  </card>
+
+  <card>
+    <name>Albert Einstein</name>
+    <title>Prof. Dr.</title>
+    <logo uri="einstein.jpg" />
+  </card>
+</cardCollection>
